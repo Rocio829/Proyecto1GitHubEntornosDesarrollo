@@ -4,7 +4,7 @@ Explicacion de la empresa ficticia.
 Moda Mixta Baza.
 ## 1. Fundamentos del sistema
 Como su propio nombre indica, esta empresa trata sobre ropa, pero, en lugar de ser simplemente ropa juvenil/moderna, tambien incluye ropa mas clasica para aquellos clientes que deseen adquirir ese tipo tipo de prendas.
-## 2. Analisis y especificacinn de requisitos
+## 2. Analisis y especificacion de requisitos
 Informacion sobre la especificacion de requisitos acordada entre los clientes y el equipo.
 Anade aqui todo lo que hemos ido haciendo sobre los requisitos.
 Esta empresa se dedica al comercio de ropa, yy, al ser uuna empresa local, no cuenta con puntos de venta mas alla del pueblo donde se encuentra, aunque sea digital. En resumidas cuentas, lo que esta empresa hace es simplemente dedicarse a vender prendas textiles.
